@@ -1,0 +1,22 @@
+{
+    "findings": [
+        {
+            "category": "command_execution",
+            "count": 1,
+            "weight": 40
+        },
+        {
+            "category": "code_execution",
+            "count": 1,
+            "weight": 30
+        },
+        {
+            "category": "obfuscation",
+            "count": 1,
+            "weight": 30
+        }
+    ],
+    "risk_score": 100,
+    "severity": "CRITICAL",
+    "is_malicious": true
+}
